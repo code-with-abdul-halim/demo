@@ -1,2 +1,2 @@
 # demo..its project name
-author-halim..author is editor name
+author-halim tati..author is editor name
